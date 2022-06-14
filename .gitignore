@@ -1,2 +1,6 @@
-.vs/
-obj/
+**/bin
+**/obj
+**/packages
+**/.vs
+**/Properties/PublishProfiles
+**/*.user
